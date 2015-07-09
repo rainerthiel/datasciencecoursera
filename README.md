@@ -1,4 +1,4 @@
 # datasciencecoursera
 ## Test repo
 * data science course module 1
-* created 9 April 2015
+* created 10 July 2015
